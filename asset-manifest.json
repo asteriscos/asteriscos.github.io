@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b699e3e.chunk.css",
+    "main.js": "/static/js/main.e86f02b7.chunk.js",
+    "main.js.map": "/static/js/main.e86f02b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a789c4c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a789c4c1.js.map",
+    "static/js/2.554fd264.chunk.js": "/static/js/2.554fd264.chunk.js",
+    "static/js/2.554fd264.chunk.js.map": "/static/js/2.554fd264.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e39e48c1dd1c18b91d175912f2de9fd7.js": "/precache-manifest.e39e48c1dd1c18b91d175912f2de9fd7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3b699e3e.chunk.css.map": "/static/css/main.3b699e3e.chunk.css.map",
+    "static/js/2.554fd264.chunk.js.LICENSE.txt": "/static/js/2.554fd264.chunk.js.LICENSE.txt",
+    "static/media/Federico-Matias-Rodriguez.pdf": "/static/media/Federico-Matias-Rodriguez.217a27b0.pdf",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f33df365.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a789c4c1.js",
+    "static/js/2.554fd264.chunk.js",
+    "static/css/main.3b699e3e.chunk.css",
+    "static/js/main.e86f02b7.chunk.js"
+  ]
+}
